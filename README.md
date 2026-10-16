@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
