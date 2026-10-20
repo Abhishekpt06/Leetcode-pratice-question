@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0120-triangle) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
