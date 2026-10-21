@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0120-triangle) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
