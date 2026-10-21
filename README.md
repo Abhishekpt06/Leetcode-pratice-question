@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0509-fibonacci-number) |
