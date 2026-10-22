@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
