@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 ## Backtracking
