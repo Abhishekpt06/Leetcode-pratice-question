@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0198-house-robber) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
