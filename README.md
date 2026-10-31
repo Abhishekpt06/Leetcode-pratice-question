@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0509-fibonacci-number) |
 | [2544-alternating-digit-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/2544-alternating-digit-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,9 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
