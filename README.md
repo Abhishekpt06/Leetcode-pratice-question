@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
