@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0931-minimum-falling-path-sum) |
+| [1929-concatenation-of-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/1929-concatenation-of-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
