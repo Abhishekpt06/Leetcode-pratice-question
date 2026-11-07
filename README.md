@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 ## Backtracking
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0022-generate-parentheses) |
 ## Hash Table
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
