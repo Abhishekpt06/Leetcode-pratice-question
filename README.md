@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0046-permutations) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Simulation
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
