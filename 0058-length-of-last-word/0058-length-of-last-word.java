@@ -5,7 +5,7 @@ class Solution {
        int count= 0;
       
        while(i>=0 && s.charAt(i)!=' '){
-        count++;
+        count ++;
         i--;
        }
        return count;
