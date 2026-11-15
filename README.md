@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0509-fibonacci-number) |
 | [2544-alternating-digit-sum](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/2544-alternating-digit-sum) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0051-n-queens) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
