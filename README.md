@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ap10122006-sys/Leetcode-pratice-question/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
