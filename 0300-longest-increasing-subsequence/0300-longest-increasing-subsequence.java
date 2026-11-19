@@ -1,3 +1,5 @@
+// using tabulation method
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
